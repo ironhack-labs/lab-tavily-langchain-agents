@@ -1,0 +1,7 @@
+# ignore all env files
+.env
+.env.*
+*.env
+
+# other ignores
+**/chroma_db_LAB/
