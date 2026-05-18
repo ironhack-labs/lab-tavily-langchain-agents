@@ -1,0 +1,10 @@
+# Ignorar el archivo de variables de entorno (API Keys)
+.env
+
+# Ignorar la base de datos vectorial local
+/chroma_db_W8_D1_LAB/
+
+# Opcional: Otros archivos comunes de Python/Notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
