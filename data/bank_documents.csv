@@ -1,0 +1,11 @@
+id,title,text
+premium-1,Premium plan,"The Premium plan costs 9.99 euros per month. It includes card payments in foreign currencies with no fee, travel insurance, and two free ATM withdrawals abroad per month."
+customers-1,Customer base,"In September 2026 the bank had 182,000 active customers, of whom 14% were on the Premium plan. 61% of customers are aged 25 to 44."
+complaints-1,"Complaints, third quarter of 2026","The bank received 1,240 complaints between July and September 2026: 38% about card delivery, 22% about blocked cards, 15% about transfers and 25% about other topics."
+app-1,Mobile app,In September 2026 the mobile app was rated 4.3 out of 5 in the app stores. The features customers request most are budgeting tools and instant notifications for card payments.
+roadmap-1,Product roadmap 2027,"Planned for 2027: an AI assistant called Nova in the app in the first quarter, budgeting tools in the second quarter, and a joint account in the second half of the year."
+fx-1,Foreign currency,Card payments in a foreign currency use the Mastercard exchange rate plus a 1.5% fee. The fee is waived for Premium customers.
+cards-2,Card delivery,"New cards arrive within 7 working days. If a card has not arrived after 10 working days, the customer can order a free replacement in the app under Card > Replace."
+cards-3,Blocked PIN,"After three wrong PIN attempts the card is blocked. The customer can unblock it in the app under Card > PIN > Unblock, or at any of the bank's ATMs."
+transfers-1,Transfer limits,"Customers can send up to 10,000 euros per day by SEPA transfer. Instant transfers are limited to 2,000 euros each."
+ai-1,AI assistant policy,"The support chatbot must start every conversation with: 'You are chatting with Nova, the bank's AI assistant.' Staff must never paste customer names, IBANs or card numbers into external AI tools."
