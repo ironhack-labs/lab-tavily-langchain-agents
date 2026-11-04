@@ -1,0 +1,8 @@
+# Secrets: never commit
+.env
+
+# Generated files
+.ipynb_checkpoints/
+__pycache__/
+chroma_db*/
+.DS_Store
